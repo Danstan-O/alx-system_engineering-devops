@@ -1,1 +1,2 @@
 #!/bin/bash 101-symbolic_link_permissions
+chown -hR vincent:staff
